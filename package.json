@@ -1,0 +1,18 @@
+{
+  "name": "Twitter Bot Template",
+  "description": "a template for a simple twitter bot that responds to mentions",
+  "homepage": "http://github.com/syllogismos/twitter-bot-template",
+  "license": "CC0-1.0",
+  "version": "0.0.1",
+  "dependencies": {
+    "twit": "latest",
+    "coffee-script": "latest",
+    "minimist": "latest"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "chai": "latest"
+  },
+  "scripts": {
+  }
+}
