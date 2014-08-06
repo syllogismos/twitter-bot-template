@@ -3,10 +3,6 @@ Twitter Bot Template:
 
 A simple twitter bot template that can respond to mentions it receives.
 
-I did this for Rachel Riley:
----------------------------
-![Rachel Riley](http://i.imgur.com/1dpbwmZ.gif)
-
 Installation and Todos:
 ----------------------
 
