@@ -2,6 +2,7 @@ Twitter Bot Template:
 =====================
 
 A simple twitter bot template that can respond to mentions it receives.
+This is based on https://github.com/edsu/anon
 
 Installation and Todos:
 ----------------------

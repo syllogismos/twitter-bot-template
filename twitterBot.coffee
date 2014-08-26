@@ -31,7 +31,7 @@ solve = (tweetText) ->
 	# todo the actual function
 	return ""
 
-isOfWrongFromat = (tweetText) ->
+isOfWrongFormat = (tweetText) ->
 	# todo check if the tweet text format is the one you are expecting, by default it returns false
 	return false
 
